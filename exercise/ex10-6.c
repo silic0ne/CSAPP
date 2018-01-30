@@ -1,9 +1,6 @@
 /*
  * 10.6
  *
- * mofaph@gmail.com
- * 2013/5/11
- *
  * 下面程序的输出是什么？
  *
  * $ touch {foo,bar,baz}.txt

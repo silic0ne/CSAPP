@@ -2,8 +2,6 @@
  * 3.69
  *
  * $ cc -m64 -S ex3-69.c # 使用 -m64 生成 64 位代码
- *
- * mofaph@gmail.com
  */
 
 typedef struct ELE *tree_ptr;

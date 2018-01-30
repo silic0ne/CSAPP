@@ -5,8 +5,6 @@
  * 使用 mmap 将 hello.txt 的内容改为“Jello, world!\n”。
  *
  * unix> gcc -Wall ex9-14.c t9-14.c
- *
- * mofaph@gmail.com
  */
 
 #include <stdio.h>

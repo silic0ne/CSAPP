@@ -91,10 +91,7 @@ void Pause()
 
 unsigned int Sleep(unsigned int secs)
 {
-    unsigned int rc;
-
-    if ((rc = sleep(secs)) < 0)
-        unix_error("Sleep error");
+    unsigned int rc = sleep(secs);
     return rc;
 }
 
@@ -811,7 +808,3 @@ int Open_listenfd(int port)
     return rc;
 }
 /* $end csapp.c */
-
-
-
-

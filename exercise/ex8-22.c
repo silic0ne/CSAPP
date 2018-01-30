@@ -1,8 +1,6 @@
 /*
  * 8.22
  *
- * mofaph@gmail.com
- *
  * 编写 UNIX system 函数的你自己的版本
  *
  *     int mysystem(char *command);

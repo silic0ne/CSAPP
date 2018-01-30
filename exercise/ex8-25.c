@@ -1,8 +1,6 @@
 /*
  * 8.25
  *
- * mofaph@gmail.com
- *
  * 编写 fgets 函数的一个版本，叫做 tfgets，它 5 秒中后会超时。tfgets 函数接收和
  * fgets 相同的输入。如果用户在 5 秒内不键入一个输入行，tfgets 返回 NULL。否则，
  * 它返回一个指向输入行的指针。

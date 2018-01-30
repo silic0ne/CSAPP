@@ -1,8 +1,6 @@
 /*
  * 9.17
  *
- * mofaph@gmail.com
- *
  * unix> gcc -I../common ex9-17.c t9-17.c ../sample/ch09/memlib.c ../common/csapp.c -lpthread
  *
  * 开发 9.9.12 节中的分配器的一个版本，执行下一次适配，而不是首次适配

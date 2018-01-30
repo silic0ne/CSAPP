@@ -1,8 +1,6 @@
 /*
  * 8.21
  *
- * mofaph@gmail.com
- *
  * 下面程序可能的输出序列是什么？
  *
  * unix> cc ex8-21.c

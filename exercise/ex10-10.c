@@ -1,11 +1,6 @@
 /*
  * 10.10
  *
- * mofaph@gmail.com
- * 2013-5-11
- *
- * 感谢 @oymy，指出了这道题应该使用 dup2()。
- *
  * $ cc -I../common ../common/csapp.c ex10-10.c -lpthread
  */
 

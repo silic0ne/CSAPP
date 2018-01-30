@@ -1,10 +1,4 @@
-/*
- * 8.26
- *
- * mofaph@gmail.com
- * 2013-7-14
- *
- * 测试 job.c
+/* 测试 job.c
  *
  * unix> cc -Wall t-job.c job.c -o t-job
  */

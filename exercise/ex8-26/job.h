@@ -1,10 +1,3 @@
-/*
- * 8.26
- *
- * mofaph@gmail.com
- * 2013-7-14
- */
-
 #ifndef __job_h
 #define __job_h
 

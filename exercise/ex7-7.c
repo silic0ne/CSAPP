@@ -1,7 +1,5 @@
 /*
  * 7.7
- *
- * mofaph@gmail.com
  */
 
 /*

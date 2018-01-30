@@ -37,6 +37,7 @@
  * 几乎不可能测试所有的交错。你可能运行这段代码十亿次，也没有一次错误，但是下一次
  * 测试却导致引发竞争的交错。
  */
+#include "/home/hazen/csapp/common/csapp.h"
 
 void handler(int sig)
 {

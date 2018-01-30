@@ -1,8 +1,6 @@
 /*
  * 8.18
  *
- * mofaph@gmail.com
- *
  * unix> cc -I../common ex8-18.c ../common/csapp.c -lpthread
  *
  * 判断下面哪个输出是可能的。注意：atexit 函数以一个指向函数的指针为输入，并将它

@@ -1,7 +1,5 @@
 /*
  * 3.68
- *
- * mofaph@gmail.com
  */
 
 #include <stdio.h>
